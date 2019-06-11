@@ -1,0 +1,19 @@
+
+Customer Name: Elon Musk
+Customer Address: 3500 Deer Creek Road
+                  Palo Alto, CA, 94304
+ 
+Item Number           Item Name            Qty          Unit Cost          Total
+-----------------------------------------------------------------------------------
+Item Number 28979     Product Name 1         5           3.10               15.50
+Item Number 55953     Product Name 2        10          14.32              143.20
+Item Number 92427     Product Name 3        15          16.32              244.80
+Item Number 60609     Product Name 4        20           3.84               76.80
+Item Number 86591     Product Name 5        25           3.29               82.25
+Item Number 26357     Product Name 140      30           4.84              145.20
+Item Number 81837     Product Name 138      35          15.33              536.55
+Item Number 97897     Product Name 137      40           9.88              395.20
+Item Number 74328     Product Name 136      45          14.15              636.75
+Item Number 32704     Product Name 134      54           1.70               91.80
+-----------------------------------------------------------------------------------
+                                                                  Total: $2368.05
